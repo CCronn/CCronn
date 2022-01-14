@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CCronn
 - 👀 I’m interested in data, learning and improving.
-- 🌱 I’m currently learning R Distill & R Shiny.
+- 🌱 I’m currently learning R, Distill & R Shiny.
 
 
 <!---
